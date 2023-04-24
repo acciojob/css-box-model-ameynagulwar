@@ -1,11 +1,14 @@
 p{
    
     padding: 50px;
-    background-color: rgb(173, 216, 230);
-    border: 15px solid blue;
-    margin: 20px;
+    background-color: lightblue;
+   
+/*     margin: 20px; */
 }
 div{
 	 width: 300px;
+	 background-color: lightblue;
+	 border: 15px  solid blue;
+	 margin: 20px;
 }
 /* Your CSS Code here. */
